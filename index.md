@@ -1,4 +1,4 @@
-![FPAR_ytd_plot](/ytd_plot.png)
+![FPAR_ytd_plot](/FPAR_ytd_plot.png)
 This figure is created with the latest satellite retrieval for the Eight Mile Lake site in Alaska.
 
 It shows the MODIS fraction of photosynthetically active radiation absorbed by green leaves (FPAR) data product.
