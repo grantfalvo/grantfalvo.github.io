@@ -1,10 +1,14 @@
-![FPAR_ytd_plot](/FPAR_ytd_plot.png){: width="600" }
+![cumulative_nee_ytd_plot](/cumulative_nee_ytd_plot.png){: width="600" }
 
-This figure is created with the latest satellite retrieval for the Eight Mile Lake site in Alaska.
-It shows the MODIS fraction of photosynthetically active radiation absorbed by green leaves (FPAR) data product.
-The grey shading and dotted line shows the 2002-present seasonal average while the solid black line and points show the current year's valid data.
+This figure shows the cumulative net ecosystem exchange (NEE) of the Northern High Latitude Region. It is produced with near real time remote sensing and meteorological data and an ecosystem model.
 
 ![NEE_ytd_plot](/NEE_ytd_plot.png){: width="900" }
 
 This figure is created with the latest eddy covariance data retrieved from the high latitude ICOS sites.
 The solid black line shows the cumulative net ecosystem exchange (NEE) of the current year to the present date with 1 day latency. The grey shading and dotted line shows the seasonal average of all previous years.
+
+![FPAR_ytd_plot](/FPAR_ytd_plot.png){: width="600" }
+
+This figure is created with the latest satellite retrieval for the Eight Mile Lake site in Alaska.
+It shows the MODIS fraction of photosynthetically active radiation absorbed by green leaves (FPAR) data product.
+The grey shading and dotted line shows the 2002-present seasonal average while the solid black line and points show the current year's valid data.
