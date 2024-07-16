@@ -1,6 +1,6 @@
 ![cumulative_nee_ytd_plot](/cumulative_nee_ytd_plot.png){: width="600" }
 
-This figure shows the cumulative net ecosystem exchange (NEE) of the Northern High Latitude Region. It is produced with near real time remote sensing and meteorological data and an ecosystem model.
+This figure shows the cumulative net ecosystem exchange (NEE) of the Northern High Latitude Region for the year 2024. It is produced with an ecosystem model driven by near real time remote sensing and meteorological data. Points show monitoring sites used for calibration and validation.
 
 ![NEE_ytd_plot](/NEE_ytd_plot.png){: width="900" }
 
