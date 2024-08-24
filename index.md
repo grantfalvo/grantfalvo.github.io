@@ -1,4 +1,4 @@
-![cumulative_nee_ytd_plot](/cumulative_nee_ytd_plot.png){: width="600" }
+![cumulative_nee_ytd_plot](/cumulative_nee_ytd_plot.png){: width="900" }
 
 These figures show the cumulative net ecosystem exchange (NEE) of Arctic nations for the year 2024. It is produced with an ecosystem model driven by near real time remote sensing and meteorological data. Points show monitoring sites used for calibration and validation. 
 
