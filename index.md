@@ -7,7 +7,7 @@ These figures show the cumulative net ecosystem exchange (NEE) of Arctic nations
 This figure is created with the latest eddy covariance data retrieved from the high latitude NEON sites.
 The solid black line shows the cumulative net ecosystem exchange (NEE) of the current year to the present date with ~ 1 month latency. The grey shading and dotted line shows the seasonal average of all previous years.
 
-![NEE_ytd_plot](/NEE_ytd_plot.png){: width="900" }
+![ICOS_NEE_ytd_plot](/ICOS_NEE_ytd_plot.png){: width="900" }
 
 This figure is created with the latest eddy covariance data retrieved from the high latitude ICOS sites.
 The solid black line shows the cumulative net ecosystem exchange (NEE) of the current year to the present date with 1 day latency. The grey shading and dotted line shows the seasonal average of all previous years.
