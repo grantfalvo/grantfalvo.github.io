@@ -1,14 +1,45 @@
-![US-EML_24-25_FP_NEE](/US-EML_24-25_FP_NEE.pdf){: width="900" }
-![US-EML_24-25_FP_NEE_U50_f](/US-EML_24-25_FP_NEE_U50_f.pdf){: width="900" }
+---
+layout: default
+title: AWARE Test Site V1.0
+---
 
-These figures show the measured and gap filled half hourly carbon dioxide flux data for US-EML.
+# AWARE Eddy Covariance Fluxes – US-EML
 
-![US-EML_24-25_FP_FCH4](/US-EML_24-25_FP_FCH4.pdf){: width="900" }
-![US-EML_24-25_FP_FCH4_U50_f](/US-EML_24-25_FP_FCH4_U50_f.pdf){: width="900" }
+Welcome to the AWARE test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for the 2024–2025 period.
 
-These figures show the measured and gap filled half hourly methane flux data for US-EML.
+---
 
-![US-EML_24-25_FP_LE](/US-EML_24-25_FP_LE.pdf){: width="900" }
-![US-EML_24-25_FP_LE_U50_f](/US-EML_24-25_FP_LE_U50_f.pdf){: width="900" }
+## 🟢 Carbon Dioxide Flux (NEE)
 
-These figures show the measured and gap filled half hourly water flux data for US-EML.
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="/US-EML_24-25_FP_NEE.pdf" alt="NEE Flux" width="80%" style="margin-bottom: 10px;" />
+  <img src="/US-EML_24-25_FP_NEE_U50_f.pdf" alt="NEE Flux Uncertainty" width="80%" />
+</div>
+
+*Measured and gap-filled half-hourly **CO₂ (NEE)** flux data.*
+
+---
+
+## 🟣 Methane Flux (FCH₄)
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="/US-EML_24-25_FP_FCH4.pdf" alt="CH4 Flux" width="80%" style="margin-bottom: 10px;" />
+  <img src="/US-EML_24-25_FP_FCH4_U50_f.pdf" alt="CH4 Flux Uncertainty" width="80%" />
+</div>
+
+*Measured and gap-filled half-hourly **CH₄** flux data.*
+
+---
+
+## 🔵 Latent Heat Flux (LE)
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="/US-EML_24-25_FP_LE.pdf" alt="LE Flux" width="80%" style="margin-bottom: 10px;" />
+  <img src="/US-EML_24-25_FP_LE_U50_f.pdf" alt="LE Flux Uncertainty" width="80%" />
+</div>
+
+*Measured and gap-filled half-hourly **latent heat (LE)** flux data.*
+
+---
+
+_Last updated: August 2025_
