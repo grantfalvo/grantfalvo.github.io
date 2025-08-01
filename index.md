@@ -11,9 +11,9 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 ## 🟢 Carbon Dioxide Flux (NEE)
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/US-EML_24-25_FP_NEE.pdf" alt="NEE Flux" width="80%" style="margin-bottom: 10px;" />
-  <img src="/US-EML_24-25_FP_NEE_U50_f.pdf" alt="NEE Flux Uncertainty" width="80%" />
+<div class="image-pair">
+  <img src="/US-EML_24-25_FP_NEE.pdf" alt="NEE Flux" />
+  <img src="/US-EML_24-25_FP_NEE_U50_f.pdf" alt="NEE Flux Uncertainty" />
 </div>
 
 *Measured and gap-filled half-hourly **CO₂ (NEE)** flux data.*
@@ -22,9 +22,9 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 ## 🟣 Methane Flux (FCH₄)
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/US-EML_24-25_FP_FCH4.pdf" alt="CH4 Flux" width="80%" style="margin-bottom: 10px;" />
-  <img src="/US-EML_24-25_FP_FCH4_U50_f.pdf" alt="CH4 Flux Uncertainty" width="80%" />
+<div class="image-pair">
+  <img src="/US-EML_24-25_FP_FCH4.pdf" alt="CH4 Flux" />
+  <img src="/US-EML_24-25_FP_FCH4_U50_f.pdf" alt="CH4 Flux Uncertainty" />
 </div>
 
 *Measured and gap-filled half-hourly **CH₄** flux data.*
@@ -33,9 +33,9 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 ## 🔵 Latent Heat Flux (LE)
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/US-EML_24-25_FP_LE.pdf" alt="LE Flux" width="80%" style="margin-bottom: 10px;" />
-  <img src="/US-EML_24-25_FP_LE_U50_f.pdf" alt="LE Flux Uncertainty" width="80%" />
+<div class="image-pair">
+  <img src="/US-EML_24-25_FP_LE.pdf" alt="LE Flux" />
+  <img src="/US-EML_24-25_FP_LE_U50_f.pdf" alt="LE Flux Uncertainty" />
 </div>
 
 *Measured and gap-filled half-hourly **latent heat (LE)** flux data.*

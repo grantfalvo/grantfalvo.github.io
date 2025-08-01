@@ -1,0 +1,51 @@
+/* Style for paired images */
+.image-pair {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.image-pair img {
+  max-width: 45%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+/* Remove sidebar (theme override) */
+body {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+/* Top navigation bar */
+.site-header {
+  background-color: #1c1c1c;
+  color: white;
+  padding: 0.75rem 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #444;
+}
+
+.site-header a {
+  color: #eee;
+  text-decoration: none;
+}
+
+.site-header a:hover {
+  color: #fff;
+}

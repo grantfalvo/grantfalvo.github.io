@@ -4,3 +4,5 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+include:
+  - assets/css/style.css
