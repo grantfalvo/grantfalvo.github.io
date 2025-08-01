@@ -2,16 +2,20 @@
 .image-pair {
   display: flex;
   justify-content: center;
+  align-items: flex-start; /* aligns top edges */
   gap: 20px;
-  flex-wrap: wrap;
   margin-bottom: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .image-pair img {
-  max-width: 45%;
   height: auto;
+  max-height: 500px;  /* or whatever looks best */
+  width: auto;
+  max-width: 100%;
   border: 1px solid #ddd;
   border-radius: 8px;
+  box-sizing: border-box;
 }
 
 /* Remove sidebar (theme override) */
