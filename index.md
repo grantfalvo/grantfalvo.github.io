@@ -13,7 +13,8 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_NEE.png" alt="NEE Flux" />
-  <img src="/US-EML_24-25_FP_NEE_U50_f.png" alt="NEE Flux Uncertainty" />
+  <img src="/US-EML_24-25_FP_NEE_U50_f.png" alt="Gap filled NEE Flux" />
+  <img src="/NEE_daily_timeseries.png" alt="CO2 timeseries" />
 </div>
 
 *Measured and gap-filled half-hourly **CO₂ (NEE)** flux data.*
@@ -24,7 +25,8 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_FCH4.png" alt="CH4 Flux" />
-  <img src="/US-EML_24-25_FP_FCH4_U50_f.png" alt="CH4 Flux Uncertainty" />
+  <img src="/US-EML_24-25_FP_FCH4_U50_f.png" alt="Gap filled CH4 Flux" />
+    <img src="/FCH4_daily_timeseries.png" alt="CH4 timeseries" />
 </div>
 
 *Measured and gap-filled half-hourly **CH₄** flux data.*
@@ -35,7 +37,8 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_LE.png" alt="LE Flux" />
-  <img src="/US-EML_24-25_FP_LE_U50_f.png" alt="LE Flux Uncertainty" />
+  <img src="/US-EML_24-25_FP_LE_U50_f.png" alt="Gap filled LE Flux" />
+  <img src="/LE_daily_timeseries.png" alt="LE timeseries" />
 </div>
 
 *Measured and gap-filled half-hourly **latent heat (LE)** flux data.*
