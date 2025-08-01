@@ -5,7 +5,7 @@ title: AWARE Test Site V1.0
 
 # AWARE Eddy Covariance Fluxes – US-EML
 
-Welcome to the AWARE test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for the 2024–2025 period.
+Welcome to the AWARE test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for 2025.
 
 ---
 
