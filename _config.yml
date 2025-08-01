@@ -1,3 +1,6 @@
+title: AWARE Test Site V1.0
+description: Near real-time visualizations of carbon, methane, and water fluxes at US-EML
 theme: jekyll-theme-minimal
-layout: page
-title: "AWARE Test Site V1.0"
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
