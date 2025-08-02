@@ -17,7 +17,7 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
   <img src="/NEE_daily_timeseries.png" alt="CO2 timeseries" />
 </div>
 
-*Measured and gap-filled half-hourly **CO₂ (NEE)** flux data.*
+Measured (left) and gap-filled (middle) half-hourly **CO₂ (NEE)** flux data. Weekly average **CO₂ (NEE)** fluxes (right).
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
     <img src="/FCH4_daily_timeseries.png" alt="CH4 timeseries" />
 </div>
 
-*Measured and gap-filled half-hourly **CH₄** flux data.*
+Measured (left) and gap-filled (middle) half-hourly **CH₄ (FCH4)** flux data. Weekly average **CH₄ (FCH4)** fluxes (right).
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to the AWARE test site dashboard. Below are visualizations of measured a
   <img src="/LE_daily_timeseries.png" alt="LE timeseries" />
 </div>
 
-*Measured and gap-filled half-hourly **latent heat (LE)** flux data.*
+Measured (left) and gap-filled (middle) half-hourly **latent heat (LE)** flux data. Weekly average **latent heat (LE)** fluxes (right).
 
 ---
 
