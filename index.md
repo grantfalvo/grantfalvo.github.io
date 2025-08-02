@@ -1,15 +1,15 @@
 ---
 layout: default
-title: AWARE Test Site V1.0
+title: US-EML Test Site V1.0
 ---
 
-# AWARE Eddy Covariance Fluxes – US-EML
+# Eddy Covariance Fluxes – US-EML
 
-Welcome to the AWARE test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for 2025.
+Welcome to the US-EML test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for 2025.
 
 ---
 
-## 🟢 Carbon Dioxide Flux (NEE)
+## Carbon Dioxide Flux (NEE)
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_NEE.png" alt="NEE Flux" />
@@ -21,7 +21,7 @@ Measured (left) and gap-filled (middle) half-hourly **CO₂ (NEE)** flux data. M
 
 ---
 
-## 🟣 Methane Flux (FCH₄)
+## Methane Flux (FCH₄)
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_FCH4.png" alt="CH4 Flux" />
@@ -33,7 +33,7 @@ Measured (left) and gap-filled (middle) half-hourly **CH₄ (FCH4)** flux data. 
 
 ---
 
-## 🔵 Latent Heat Flux (LE)
+## Latent Heat Flux (LE)
 
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_LE.png" alt="LE Flux" />
