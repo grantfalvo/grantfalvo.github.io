@@ -5,7 +5,7 @@ title: US-EML Test Site V1.0
 
 # Eddy Covariance Fluxes – US-EML
 
-Welcome to the US-EML test site dashboard. Below are visualizations of measured and gap-filled half-hourly eddy covariance fluxes at the **US-EML** site for 2025.
+Welcome to the **US-EML** dashboard. Below are figures of measured and gap-filled half-hourly eddy covariance fluxes for 2025 and previous years.
 
 ---
 
@@ -26,7 +26,7 @@ Measured (left) and gap-filled (middle) half-hourly **CO₂ (NEE)** flux data. M
 <div class="image-pair">
   <img src="/US-EML_24-25_FP_FCH4.png" alt="CH4 Flux" />
   <img src="/US-EML_24-25_FP_FCH4_U50_f.png" alt="Gap filled CH4 Flux" />
-    <img src="/FCH4_daily_timeseries.png" alt="CH4 timeseries" />
+  <img src="/FCH4_daily_timeseries.png" alt="CH4 timeseries" />
 </div>
 
 Measured (left) and gap-filled (middle) half-hourly **CH₄ (FCH4)** flux data. Monthly average **CH₄ (FCH4)** fluxes (right) with current year (red dots) and previous years (boxes).
