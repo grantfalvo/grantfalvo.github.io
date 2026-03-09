@@ -5,15 +5,15 @@ title: US-EML Test Site V1.0
 
 # Eddy Covariance Fluxes – US-EML
 
-Welcome to the **US-EML** dashboard. Below are figures of measured and gap-filled half-hourly eddy covariance fluxes for 2025 and previous years.
+Welcome to the **US-EML** dashboard. Below are figures of measured and gap-filled half-hourly eddy covariance fluxes for 2026 and previous years.
 
 ---
 
 ## Carbon Dioxide Flux (NEE)
 
 <div class="image-pair">
-  <img src="/US-EML_24-25_FP_NEE.png" alt="NEE Flux" />
-  <img src="/US-EML_24-25_FP_NEE_U50_f.png" alt="Gap filled NEE Flux" />
+  <img src="/US-EML_25-26_FP_NEE.png" alt="NEE Flux" />
+  <img src="/US-EML_25-26_FP_NEE_U50_f.png" alt="Gap filled NEE Flux" />
   <img src="/NEE_daily_timeseries.png" alt="CO2 timeseries" />
 </div>
 
@@ -24,8 +24,8 @@ Measured (left) and gap-filled (middle) half-hourly **CO₂ (NEE)** flux data. M
 ## Methane Flux (FCH₄)
 
 <div class="image-pair">
-  <img src="/US-EML_24-25_FP_FCH4.png" alt="CH4 Flux" />
-  <img src="/US-EML_24-25_FP_FCH4_U50_f.png" alt="Gap filled CH4 Flux" />
+  <img src="/US-EML_25-26_FP_FCH4.png" alt="CH4 Flux" />
+  <img src="/US-EML_25-26_FP_FCH4_U50_f.png" alt="Gap filled CH4 Flux" />
   <img src="/FCH4_daily_timeseries.png" alt="CH4 timeseries" />
 </div>
 
@@ -36,8 +36,8 @@ Measured (left) and gap-filled (middle) half-hourly **CH₄ (FCH4)** flux data. 
 ## Latent Heat Flux (LE)
 
 <div class="image-pair">
-  <img src="/US-EML_24-25_FP_LE.png" alt="LE Flux" />
-  <img src="/US-EML_24-25_FP_LE_U50_f.png" alt="Gap filled LE Flux" />
+  <img src="/US-EML_25-26_FP_LE.png" alt="LE Flux" />
+  <img src="/US-EML_25-26_FP_LE_U50_f.png" alt="Gap filled LE Flux" />
   <img src="/LE_daily_timeseries.png" alt="LE timeseries" />
 </div>
 
@@ -45,4 +45,4 @@ Measured (left) and gap-filled (middle) half-hourly **latent heat (LE)** flux da
 
 ---
 
-_Last updated: August 2025_
+_Last updated: March 2026_
